@@ -8,4 +8,4 @@ This application was develop in ReactJS and it uses GitHub's API to add and list
 * List of issues
 
 ## Installation
-To install, clone this project and run 'yarn' in your command line. After installation, run 'yarn start' to begin using it.
+To install, clone this project and run `yarn` in your command line. After installation, run `yarn start` to begin using it.
