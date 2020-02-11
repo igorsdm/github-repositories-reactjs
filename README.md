@@ -1,4 +1,4 @@
-# github-repositories-reactjs
+# Github Repositories
 Application in ReactJS to add github repositories and check some information (avatar, description, issues) 
 
 ## About
